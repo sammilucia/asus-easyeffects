@@ -48,6 +48,13 @@ This is a basic preset which attempts to address deficiencies in the G14's speak
 
 The same as "Speakers" but with some M/S processing to increase stereo width.
 
+## Installation
+
+1. Install [EasyEffects](https://github.com/wwmm/easyeffects) 
+2. Copy the `easyeffects` folder to `~/.config`.
+3. Open EasyEffects and select a profile
+4. (Optional) enable "Over-Amplification" in Gnome Tweaks
+
 ## Project Goals
 
 The goals of this project are several, based on my personal listening preferences and scenarios:
